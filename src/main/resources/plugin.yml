@@ -1,0 +1,6 @@
+name: MobChunkChallenge
+version: 1.0
+main: de.tommy.mobchunkchallenge.MobChunkChallenge
+api-version: '1.21'
+author: Tommy
+description: Kill a mob before leaving the chunk.
